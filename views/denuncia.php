@@ -239,7 +239,7 @@
                 $('#actualizar-titulo').val(denuncia.titulo);
                 $('#actualizar-descripcion').val(denuncia.descripcion);
                 $('#actualizar-ubicacion').val(denuncia.ubicacion);
-                $('#actualizar-estado').val(denuncia.ubicacion);
+                $('#actualizar-estado').val(denuncia.estado);
                 
                 $('#actualizar-ciudadano').val(denuncia.ciudadano);
                 $('#actualizar-telefono_ciudadano').val(denuncia.telefono_ciudadano);
